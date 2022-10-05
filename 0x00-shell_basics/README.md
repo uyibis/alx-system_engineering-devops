@@ -1,0 +1,2 @@
+current_working_directory
+pwd command
